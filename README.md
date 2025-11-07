@@ -12,7 +12,7 @@ Role: Data Science Intern
 Project Overview
 
 This repository highlights my 3-month journey as a **Data Science Intern at Smarted Innovations**, where I worked on transforming raw data into actionable insights.
-I explored, analyzed, and modeled data to uncover meaningful patterns that support data-driven business decisions**.
+I explored, analyzed, and modeled data to uncover meaningful patterns that support data-driven business decisions.
 
 
 
